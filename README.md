@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrjuverafo" target="blank"><img src="https://img.shields.io/twitter/follow/mrjuverafo?logo=twitter&style=for-the-badge" alt="mrjuverafo" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Python**
+- 🌱 I’m currently learning **Symfony, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
